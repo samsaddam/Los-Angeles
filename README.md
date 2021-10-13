@@ -1,4 +1,3 @@
-# Los-Angeles
 # LosAngeles Mountains
   
 [check the live Demo](https://loseangeles-aishwarya.herokuapp.com/)
